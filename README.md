@@ -4,7 +4,7 @@ This creates and attempts to train a reinforcement learning neural network to pl
 
 # The Game
 
-Close to Zero is very simple, six random numbers are read out one at a time in the order they were generated in. Each time a number is called, the player will place is in an array with 2 rows and 3 columns. Each row will concatenate into a whole number and the difference is found between them. The goal of the game is to get the difference as low as possible.
+Close to Zero is very simple, six random numbers are read out one at a time in the order they were generated in. Each time a number is called, the player will place it in an array with 2 rows and 3 columns. Each row will concatenate into a whole number and the difference is found between them. The goal of the game is to get the difference as low as possible.
 
 # Description
 
