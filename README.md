@@ -9,8 +9,8 @@ Close to Zero is very simple, six random numbers are read out one at a time in t
 # Description
 
 Written in Python.
-This recurrent neural network, written from scratch, attempts to play Close to Zero optimally.
+This recurrent neural network, written from scratch. It attempts to play Close to Zero optimally.
 
 # Project Status
 
-Currently in active development.
+Currently in "active" development.
