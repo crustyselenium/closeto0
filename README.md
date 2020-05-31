@@ -13,4 +13,4 @@ This recurrent neural network, written from scratch. It attempts to play Close t
 
 # Project Status
 
-Currently in "active" development.
+Abandoned
